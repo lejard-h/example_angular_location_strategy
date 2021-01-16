@@ -1,7 +1,5 @@
 # example_angular_location_strategy
 
-A web app that uses [AngularDart](https://angulardart.dev) and
-[AngularDart Components](https://angulardart.dev/components).
+Angular Dart example on how to configure Router LocationStrategy
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+[Related Arcticle]()
