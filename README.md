@@ -2,4 +2,4 @@
 
 Angular Dart example on how to configure Router LocationStrategy
 
-[Related Arcticle]()
+[Related Arcticle](https://dev.to/lejardh/angular-dart-router-locationstrategy-149m)
